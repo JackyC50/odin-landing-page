@@ -101,6 +101,7 @@ a {
  align-items: center;
  gap: 20px;
  margin-bottom: 60px;
+ flex-wrap: wrap;
 }
 
 .title {
@@ -187,6 +188,7 @@ a {
  border-style:solid;
  padding: 0px 24px 0px 24px;
  height: 40px;
+ flex-shrink: 0;
 }
 
 .footer {
